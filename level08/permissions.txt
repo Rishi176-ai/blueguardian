@@ -1,0 +1,1 @@
+-rw-rw-rw- 1 attacker attacker 2048 May 10 11:00 secrets.txt
